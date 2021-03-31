@@ -1,0 +1,17 @@
+{
+  "name": "cm-wall",
+  "version": "1.0.0",
+  "description": "Une page public qui affiche des post instagramme (et facebook), et une page d'administration de la page public",
+  "main": "index.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "lucas-lvn",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "request-promise": "^4.2.6"
+  }
+}
